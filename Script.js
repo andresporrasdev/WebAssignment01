@@ -8,10 +8,11 @@ for (let i = 1; i < projects.length; i++) {
     projects[i].style.display = 'none';
 }
 
-// Add event listeners to the Next and Previous buttons
+//Get the Previous and Next buttons
 const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 
+// Add event listeners to the Next and Previous buttons
 prevBtn.addEventListener('click', showPrevProject);
 nextBtn.addEventListener('click', showNextProject);
 

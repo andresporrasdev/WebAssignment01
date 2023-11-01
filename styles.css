@@ -16,19 +16,23 @@ body {
     margin: 0;
     padding: 0;
 }
+/* Style for the logo of the Algonquin College*/
 .algonquinBackground {
     background-color: #333;
     padding: 15px;
     border-radius: 10pt;
 }
+
+/* Add a background image with my photo in the snow*/
 .backgroundImg {
     background-image: url("img/Background.jpg");
     background-position: center;
-  background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-color: gray;
     background-blend-mode: multiply;
 }
+
 
 header {
     background-color: #333;
@@ -40,7 +44,6 @@ header {
 header h1 {
     margin: 0;
 }
-
 
 nav a {
     color: #fff;
@@ -58,12 +61,14 @@ section {
     text-align: left;
 }
 
+/* Turn the radius border of the images in rounded ones */
 .imgRoundedAndSquare {
     border-radius: 15pt;
     width: 250px;
     margin-bottom: 1rem;
 }
 
+/* Display in block the content for the Columns of Hobbies*/
 .colHobbies {
     display: block;
     flex-direction: row;
@@ -71,6 +76,8 @@ section {
     flex-direction: column;
  }
 
+
+ /* Add a style pretty looking background */ 
  .sectionBackground {
     background-color: gainsboro;
     padding: 15px;
@@ -128,13 +135,6 @@ ul {
     list-style-type: none;
 }
 
-/* .experience {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-direction: column;
-} */
-
 .projectImgSize
 {
     width: 350px;
@@ -148,7 +148,7 @@ span {
 }
 
 button {
-    background-color: #4FC1DB; /* Green */
+    background-color: #4FC1DB;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -170,10 +170,6 @@ button:hover {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
 }
-
-/* .halfSize {
-    width: 50%;
-} */
 
 .center {
     text-align: center;
