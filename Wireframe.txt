@@ -1,0 +1,44 @@
+Index.html
+Name
+Picture
+description (bold) to empathize //
+
+Resume.html
+Contact Information
+	o Your full name.
+	o Email address.
+	o Phone number (optional).
+	o LinkedIn profile (optional).
+	o Any other relevant contact details (GitHub)
+Summary or Objective
+	A brief, one or two-sentence summary of your career objectives or what you're looking
+	to achieve.
+• Work Experience
+	List your work experiences in reverse chronological order (most recent first).
+	Include the job title, the company or organization's name, the location, and the dates of
+	employment. Provide a brief description of your responsibilities, accomplishments, and
+	any relevant achievements for each role.
+• Skills
+	Highlight your technical and soft skills relevant to your field.
+• Education
+	List your educational background, starting with the most recent degree.
+	Include the degree earned, the institution's name, the location, and the graduation
+	date. Optionally, you can mention your GPA if it's impressive.
+
+Projects.html
+4 projects with
+	Title
+	Description
+	Date
+	Technologies used
+	screenshot
+	
+Implement JavaScript to allow users to move between projects. Add "Next" and "Previous"
+buttons that show or hide project information one at a time, creating a simple slideshow for
+browsing through projects
+
+
+Contact.html
+
+In the "Contact" page, provide a form that includes fields for Name, Email, Message, and a
+Submit button
